@@ -204,7 +204,7 @@ const personInfo = {
 },
 
     addExpense(description, amount) {
-  this.incomes.push({ description, amount });
+  this.expenses.push({ description, amount });
 },
 
 
